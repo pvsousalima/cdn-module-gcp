@@ -33,6 +33,8 @@ module "gcp_cdn" {
 }
 ```
 
+Copy your files into the created bucket and access them via `cdn.yourdomain.com/youfile.example`
+
 ## Inputs
 
 | Name | Description | Type | Default | Required |
